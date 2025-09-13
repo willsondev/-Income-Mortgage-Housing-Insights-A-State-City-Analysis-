@@ -1,0 +1,7 @@
+## 📦 requirements.txt  
+
+Since tu Python sirf dataset banane ke liye use kar raha hai, basic packages kaafi hain:  
+
+pandas
+numpy
+faker
