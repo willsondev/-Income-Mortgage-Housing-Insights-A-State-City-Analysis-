@@ -1,0 +1,121 @@
+Property_ID,State,City,Year,Median_House_Price,Mortgage_Rate
+1001,California,Los Angeles,2015,827002,3.33
+1002,California,Los Angeles,2016,524993,3.31
+1003,California,Los Angeles,2017,338339,3.89
+1004,California,Los Angeles,2018,408418,5.78
+1005,California,Los Angeles,2019,238181,3.46
+1006,California,Los Angeles,2020,248325,3.42
+1007,California,Los Angeles,2021,202969,3.51
+1008,California,Los Angeles,2022,709245,4.36
+1009,California,San Francisco,2015,441142,4.71
+1010,California,San Francisco,2016,399554,4.04
+1011,California,San Francisco,2017,812190,5.77
+1012,California,San Francisco,2018,361639,5.7
+1013,California,San Francisco,2019,731211,5.39
+1014,California,San Francisco,2020,797595,3.16
+1015,California,San Francisco,2021,330950,3.3
+1016,California,San Francisco,2022,422095,5.61
+1017,California,San Diego,2015,886868,4.82
+1018,California,San Diego,2016,609022,3.13
+1019,California,San Diego,2017,530023,3.3
+1020,California,San Diego,2018,752154,3.21
+1021,California,San Diego,2019,606812,4.6
+1022,California,San Diego,2020,547053,3.39
+1023,California,San Diego,2021,406631,5.84
+1024,California,San Diego,2022,511963,4.82
+1025,Texas,Dallas,2015,208348,3.06
+1026,Texas,Dallas,2016,735865,5.21
+1027,Texas,Dallas,2017,611357,4.31
+1028,Texas,Dallas,2018,707546,5.9
+1029,Texas,Dallas,2019,887702,3.64
+1030,Texas,Dallas,2020,792857,4.97
+1031,Texas,Dallas,2021,553571,5.11
+1032,Texas,Dallas,2022,873305,5.16
+1033,Texas,Houston,2015,522935,5.11
+1034,Texas,Houston,2016,386521,4.32
+1035,Texas,Houston,2017,309166,4.25
+1036,Texas,Houston,2018,509478,3.51
+1037,Texas,Houston,2019,443759,3.09
+1038,Texas,Houston,2020,672722,4.11
+1039,Texas,Houston,2021,476893,5.45
+1040,Texas,Houston,2022,607140,4.09
+1041,Texas,Austin,2015,224195,5.44
+1042,Texas,Austin,2016,454936,3.37
+1043,Texas,Austin,2017,244305,4.11
+1044,Texas,Austin,2018,851498,4.82
+1045,Texas,Austin,2019,410686,5.99
+1046,Texas,Austin,2020,632285,3.89
+1047,Texas,Austin,2021,356016,4.74
+1048,Texas,Austin,2022,567370,4.09
+1049,New York,New York City,2015,760304,4.49
+1050,New York,New York City,2016,594715,3.51
+1051,New York,New York City,2017,410955,3.29
+1052,New York,New York City,2018,831213,3.44
+1053,New York,New York City,2019,563923,3.3
+1054,New York,New York City,2020,592208,3.98
+1055,New York,New York City,2021,214453,4.43
+1056,New York,New York City,2022,411297,4.89
+1057,New York,Buffalo,2015,253959,4.97
+1058,New York,Buffalo,2016,315404,4.95
+1059,New York,Buffalo,2017,718398,4.09
+1060,New York,Buffalo,2018,709932,4.59
+1061,New York,Buffalo,2019,665821,4.06
+1062,New York,Buffalo,2020,702211,5.27
+1063,New York,Buffalo,2021,825019,3.36
+1064,New York,Buffalo,2022,213461,5.98
+1065,New York,Rochester,2015,573955,5.26
+1066,New York,Rochester,2016,472736,5.09
+1067,New York,Rochester,2017,243668,4.71
+1068,New York,Rochester,2018,581053,4.13
+1069,New York,Rochester,2019,778871,5.34
+1070,New York,Rochester,2020,857505,3.21
+1071,New York,Rochester,2021,512758,3.2
+1072,New York,Rochester,2022,678753,4.25
+1073,Florida,Miami,2015,544037,5.67
+1074,Florida,Miami,2016,207126,4.48
+1075,Florida,Miami,2017,491570,3.78
+1076,Florida,Miami,2018,655512,3.95
+1077,Florida,Miami,2019,368123,5.85
+1078,Florida,Miami,2020,833284,5.89
+1079,Florida,Miami,2021,610729,3.41
+1080,Florida,Miami,2022,430659,4.06
+1081,Florida,Orlando,2015,885957,4.81
+1082,Florida,Orlando,2016,456281,3.24
+1083,Florida,Orlando,2017,244618,3.74
+1084,Florida,Orlando,2018,390621,3.84
+1085,Florida,Orlando,2019,614883,3.17
+1086,Florida,Orlando,2020,500519,4.19
+1087,Florida,Orlando,2021,462849,4.8
+1088,Florida,Orlando,2022,683886,4.33
+1089,Florida,Tampa,2015,369739,3.91
+1090,Florida,Tampa,2016,669351,3.4
+1091,Florida,Tampa,2017,404811,4.43
+1092,Florida,Tampa,2018,206453,5.91
+1093,Florida,Tampa,2019,567912,3.82
+1094,Florida,Tampa,2020,480764,3.8
+1095,Florida,Tampa,2021,385059,3.11
+1096,Florida,Tampa,2022,800514,5.82
+1097,Illinois,Chicago,2015,698352,4.25
+1098,Illinois,Chicago,2016,662061,5.16
+1099,Illinois,Chicago,2017,871728,3.11
+1100,Illinois,Chicago,2018,556072,5.34
+1101,Illinois,Chicago,2019,434603,5.68
+1102,Illinois,Chicago,2020,516779,3.83
+1103,Illinois,Chicago,2021,558375,5.97
+1104,Illinois,Chicago,2022,545693,3.26
+1105,Illinois,Springfield,2015,700785,4.92
+1106,Illinois,Springfield,2016,874370,3.27
+1107,Illinois,Springfield,2017,556111,4.06
+1108,Illinois,Springfield,2018,645251,3.57
+1109,Illinois,Springfield,2019,673829,3.78
+1110,Illinois,Springfield,2020,571231,4.49
+1111,Illinois,Springfield,2021,279611,4.34
+1112,Illinois,Springfield,2022,593075,5.37
+1113,Illinois,Naperville,2015,530400,5.31
+1114,Illinois,Naperville,2016,263613,3.66
+1115,Illinois,Naperville,2017,446339,3.44
+1116,Illinois,Naperville,2018,787147,4.93
+1117,Illinois,Naperville,2019,796277,3.85
+1118,Illinois,Naperville,2020,315117,4.51
+1119,Illinois,Naperville,2021,290545,5.86
+1120,Illinois,Naperville,2022,260677,5.28
